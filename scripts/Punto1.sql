@@ -1,7 +1,0 @@
--- Consulta A
-SELECT *
-FROM tic_2023;
-
--- Consulta B
-SELECT DISTINCT ACTIVIDAD_NOMBRE
-FROM tic_2023;
