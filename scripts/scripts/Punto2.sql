@@ -1,0 +1,7 @@
+SELECT 
+    SEDE_CODIGO AS codigo_sede,
+    ACTIVIDAD_CODIGO AS codigo_actividad,
+    ACTIVIDAD_NOMBRE AS nombre_actividad
+FROM tic_2022
+ORDER BY SEDE_CODIGO ASC
+LIMIT 50;
